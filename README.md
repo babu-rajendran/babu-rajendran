@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a COVID-19 tracking app.
-- 🌱 I’m currently learning Angular.
+- 🔭 I’m currently pursuing an MS degree in Software Engineering.
+- 🌱 I’m currently learning iOS development and AWS Technologies.
 
 <!--
 **babu-rajendran/babu-rajendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
