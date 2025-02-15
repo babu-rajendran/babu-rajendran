@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently pursuing an MS degree in Software Engineering.
-- 🌱 I’m currently learning Node, React and AWS Technologies.
+- 🔭 I’m a software engineer.
+- 🌱 I’m learning React and front end technologies.
 
 <!--
 **babu-rajendran/babu-rajendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
